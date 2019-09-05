@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot_learning.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-crud/spring-security-login/spring-security-login.iml" filepath="$PROJECT_DIR$/springboot-crud/spring-security-login/spring-security-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-crud/lightsword/springboot-crud.iml" filepath="$PROJECT_DIR$/springboot-crud/lightsword/springboot-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-crud/springboot-crud02/springboot-crud01.iml" filepath="$PROJECT_DIR$/springboot-crud/springboot-crud02/springboot-crud01.iml" />
+      <module fileurl="file://F:\JAVA\SpringBoot_learning\springboot-crud01\springboot-crud01.iml" filepath="F:\JAVA\SpringBoot_learning\springboot-crud01\springboot-crud01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" filepath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mysql/springboot-mysql.iml" filepath="$PROJECT_DIR$/springboot-mysql/springboot-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
     </modules>
   </component>
 </project>

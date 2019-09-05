@@ -6,10 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-login" />
+        <module name="springboot-crud" />
+        <module name="springboot-crud01" />
+        <module name="springboot-demo" />
+        <module name="springboot-freemarker" />
+        <module name="springboot-mysql" />
+        <module name="springboot-rabbitmq" />
+        <module name="springboot-redis" />
         <module name="SpringBoot_learning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-security-login" target="1.7" />
+      <module name="springboot-crud" target="1.8" />
+      <module name="springboot-crud01" target="1.8" />
+      <module name="springboot-demo" target="1.5" />
+      <module name="springboot-freemarker" target="1.8" />
+      <module name="springboot-mysql" target="1.8" />
+      <module name="springboot-rabbitmq" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
       <module name="SpringBoot_learning" target="1.5" />
     </bytecodeTargetLevel>
   </component>

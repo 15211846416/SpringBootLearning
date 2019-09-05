@@ -1,8 +1,7 @@
-package com.xiao.Controller;/**
+package com.xiao.controller;/**
  * Created by 小飞 on 2019/7/31.
  */
 
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

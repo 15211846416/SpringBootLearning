@@ -23,24 +23,28 @@ public class UserControllerMybatis {
     private UserService service;
 
     @RequestMapping("query")
-    public UserBean queryByName(){
+    public UserBean queryByName() {
         return service.selectUserByName("xiaofei");
 
     }
+
     @RequestMapping("queryAll")
-    public List<UserBean> queryByAll(){
+    public List<UserBean> queryByAll() {
         return service.selectAllUser();
     }
+
     @RequestMapping("insert")
-    public void testInsert(){
+    public void testInsert() {
         service.InsertUser();
     }
+
     @RequestMapping("changemoney")
-    public void changemoney(){
+    public void changemoney() {
         service.changemoney();
     }
+
     @RequestMapping("delete")
-    public String testDelete(){
+    public String testDelete() {
         service.deleteUser(5);
         return "delete OK";
     }
