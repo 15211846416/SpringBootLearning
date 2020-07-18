@@ -19,7 +19,6 @@ public class CustomHandler extends SimpleChannelInboundHandler<HttpObject> {
         Channel channel = channelHandlerContext.channel();
         System.out.println(channel.remoteAddress());
         ByteBuf content = Unpooled.copiedBuffer("Hello netty", CharsetUtil.UTF_8);
-
         FullHttpResponse response = new DefaultFullHttpResponse(HttpVersion.HTTP_1_1,HttpResponseStatus.OK,content);
         response.headers().set(HttpHeaderNames.CONTENT_TYPE,"text/plain");
         response.headers().set(HttpHeaderNames.CONTENT_LENGTH,content.readableBytes());

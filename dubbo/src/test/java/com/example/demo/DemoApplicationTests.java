@@ -6,9 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DemoApplicationTests {
 
-    @Test
-    void contextLoads() {
-        System.out.println(Math.round(-1.5));
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }

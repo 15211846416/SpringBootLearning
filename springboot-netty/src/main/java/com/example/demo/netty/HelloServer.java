@@ -15,24 +15,17 @@ public class HelloServer {
     public static void main(String[] args) throws InterruptedException {
 
         EventLoopGroup boosGroup = new NioEventLoopGroup();
-
         EventLoopGroup workGroup = new NioEventLoopGroup();
-
 
 
         try {
             ServerBootstrap serverBootstrap = new ServerBootstrap();
-
             serverBootstrap.group(boosGroup,workGroup).channel(NioServerSocketChannel.class).childHandler(new HelloServerInitializer());
-
             ChannelFuture  channelFuture = serverBootstrap.bind(8089).sync();
             channelFuture.channel().closeFuture().sync();
         } finally {
             boosGroup.shutdownGracefully();
             workGroup.shutdownGracefully();
         }
-
-
-
     }
 }
