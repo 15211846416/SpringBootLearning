@@ -6,6 +6,6 @@ import io.netty.channel.nio.NioEventLoopGroup;
 public class WSServer {
     public static void main(String[] args) {
 
-        EventLoopGroup mainGroup = new NioEventLoopGroup();
+            EventLoopGroup mainGroup = new NioEventLoopGroup();
     }
 }
