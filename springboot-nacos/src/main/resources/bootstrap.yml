@@ -1,0 +1,13 @@
+spring:
+  appliction:
+    name: nacos-service
+  profiles:
+    active: dev
+    cloud:
+      nacos:
+        config:
+          group: ${spring.profiles.active}
+          file-extension: yaml
+          server-addr: 121.5.168.213:8848
+          prefix: ${spring.application.name}
+          namespace: mall
