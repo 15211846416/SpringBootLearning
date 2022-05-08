@@ -2,55 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ec55fd-cd1d-4ed9-b4ba-535cffe11f71" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/Concurrency/ConcurrencyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/ThreadDemo/CallerTaskDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/ThreadDemo/RunableTaskDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/ThreadDemo/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/java/com/thread/demo/WaitDemo/WaitNotifyInterupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot-Thread/src/test/java/com/thread/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/simple/waysToStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/递归/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/src/main/java/com/nacos/demo/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/src/main/java/com/nacos/demo/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/src/main/java/com/nacos/demo/SpringbootNacosApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-nacos/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/discard/DiscardServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/discard/DiscardServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/DatagramChannelEchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/DatagramChannelEchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/DatagramChannelEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/DatagramChannelEchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/EpollEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/LocalEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/netty/echo/OioEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/xiao/web/RedisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCodeAnalysis/MyBatisAnalysis/MyBatis3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCodeAnalysis/MyBatisAnalysis/MyBatis3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCodeAnalysis/MyBatisAnalysis/MyBatis3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCodeAnalysis/MyBatisAnalysis/MyBatis3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/bufferDemo/poolBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-netty/src/main/java/com/example/demo/bufferDemo/poolBufferDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/src/main/java/com/xiao/SpringbootRedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/xiao/SpringbootRedisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/src/main/java/com/xiao/utils/RedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/main/java/com/xiao/utils/RedisUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-redis/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq/src/test/java/com/yi/Server/RabbitConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq/src/test/java/com/yi/Server/RabbitConfigTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot-demo/target/" />
@@ -269,7 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,11 +235,21 @@
               <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootLearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-freemarker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,7 +257,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/SpringBootLearning" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -628,6 +596,7 @@
       <workItem from="1591953071484" duration="74000" />
       <workItem from="1592190841539" duration="2000" />
       <workItem from="1633415915795" duration="21000" />
+      <workItem from="1634648645080" duration="43000" />
     </task>
     <servers />
   </component>
@@ -664,12 +633,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92476000" />
+    <option name="totallyTimeSpent" value="92519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1218" height="813" extended-state="6" />
+    <frame x="-6" y="-6" width="1220" height="813" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48679867" visible="true" weight="0.3163793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48679867" visible="true" weight="0.32185885" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -679,10 +648,6 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="设计器" order="8" />
       <window_info id="Web" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="VisualGC" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7621498" weight="0.3255814" />
@@ -693,7 +658,7 @@
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49800342" weight="0.32779622" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32594234" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019898" side_tool="true" visible="true" weight="0.20234604" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019898" side_tool="true" weight="0.20234604" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49800342" weight="0.3211517" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="13" sideWeight="0.49801025" weight="0.32845894" />
@@ -702,7 +667,10 @@
       <window_info anchor="bottom" id="调试" order="16" sideWeight="0.49800342" weight="0.32779622" />
       <window_info anchor="bottom" id="缩略图" order="17" sideWeight="0.48891416" weight="0.32890365" />
       <window_info anchor="bottom" id="Problems" order="18" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="20" />
+      <window_info anchor="bottom" id="VisualGC" order="21" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="22" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -715,6 +683,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="RestServices" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
